@@ -1,0 +1,3 @@
+﻿  4.cpp
+C:\Users\gordi\Desktop\----\4\4\4.cpp(23,1): warning C4715: ШЕСТНАДЦАТЕРИЧНАЯ_СТРОКА::hexCharToInt: значение возвращается не при всех путях выполнения
+  4.vcxproj -> C:\Users\gordi\Desktop\----\4\x64\Debug\4.exe
